@@ -67,7 +67,7 @@ Future<void> _logout(BuildContext context) async {
 ```
 
 **Screenshot**
-![login1](Tugas3/ss_login1.png)
-![login2](Tugas3/ss_login2.png)
-![dashboard](Tugas3/ss_dashboard.png)
-![sidemenu](Tugas3/ss_sidemenu.png)
+![login1](your_secret/ss_login1.png)
+![login2](your_secret/ss_login2.png)
+![dashboard](your_secret/ss_dashboard.png)
+![sidemenu](your_secret/ss_sidemenu.png)
